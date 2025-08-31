@@ -1,0 +1,2 @@
+Which command displays the last few lines of a file?
+Answer (password) unlocks: treasure12.zip

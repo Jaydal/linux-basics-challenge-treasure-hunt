@@ -1,0 +1,2 @@
+Which command displays disk usage of files/directories?
+Answer (password) unlocks: treasure5.zip

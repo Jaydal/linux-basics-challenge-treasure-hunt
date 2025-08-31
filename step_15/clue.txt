@@ -1,0 +1,2 @@
+Which command shows the first few lines of a file?
+Answer (password) unlocks: treasure15.zip

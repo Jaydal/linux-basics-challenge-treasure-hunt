@@ -1,0 +1,2 @@
+Which command lists all files, including hidden files?
+Answer (password) unlocks: treasure4.zip

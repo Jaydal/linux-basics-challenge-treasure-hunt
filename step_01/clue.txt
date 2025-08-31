@@ -1,0 +1,5 @@
+What command lists files in long format?
+Answer (password) unlocks: treasure1.zip
+
+to unclock:
+unzip -P answer_password treasure1.zip

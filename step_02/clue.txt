@@ -1,0 +1,5 @@
+What command prints your current working directory?
+Answer (password) unlocks: treasure2.zip
+
+to unclock:
+unzip -P answer_password treasure2.zip

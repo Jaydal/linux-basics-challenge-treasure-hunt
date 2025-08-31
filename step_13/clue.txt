@@ -1,0 +1,2 @@
+Which command searches for a pattern in files?
+Answer (password) unlocks: treasure13.zip

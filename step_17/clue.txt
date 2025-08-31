@@ -1,0 +1,2 @@
+Which command clears the terminal screen?
+Answer (password) unlocks: THE_GRAND_TREASURE.txt

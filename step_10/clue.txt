@@ -1,0 +1,2 @@
+Which command counts words, lines, and characters?
+Answer (password) unlocks: treasure10.zip
