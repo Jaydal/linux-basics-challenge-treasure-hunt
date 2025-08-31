@@ -10,7 +10,11 @@ Each ZIP file is password-protected with the **answer to the previous question**
 
 ## Setup
 
-1. **Download and extract** the ZIP package (`linux_treasure_hunt.zip`) to a folder accessible on your VM.
+1. **Download and extract** the ZIP package (`linux_treasure_hunt.zip`) to a folder accessible on your VM or clone the repository:
+   
+```bash
+git clone <repository_url>
+```
 
 2. Open a terminal and `cd` into the starting folder:
 
